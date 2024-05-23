@@ -13,7 +13,7 @@
 </ul>
 <h1><a name='dashboard'>Dashboard</a></h1>
 <img width="900" alt="Coding" src="https://github.com/rahul27091/my-first-repo/blob/898f8230ed3a33e0c2a5c63e717afb0f40c2615a/Screenshot%202024-05-22%20191809.png"
- "https://github.com/rahul27091/my-first-repo/blob/4ca44d7bba35ce6a7568378385a6e274ff36c270/Screenshot%202024-05-22%20191659.png" 
+src= "https://github.com/rahul27091/my-first-repo/blob/4ca44d7bba35ce6a7568378385a6e274ff36c270/Screenshot%202024-05-22%20191659.png" 
  >
  
 <h1><a name="visualizationtools">Visualization Tools</a></h1>
