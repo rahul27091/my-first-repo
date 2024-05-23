@@ -12,7 +12,8 @@
  <li> Average rating of Genres and Movies </li>
 </ul>
 <h1><a name='dashboard'>Dashboard</a></h1>
-<img width="900" alt="Coding" src="https://github.com/Mariyajoseph24/Netflix_PowerBI_Dashboard/blob/main/Netflix%20dashboard.png">
+<img width="900" alt="Coding" src="https://github.com/rahul27091/my-first-repo/blob/898f8230ed3a33e0c2a5c63e717afb0f40c2615a/Screenshot%202024-05-22%20191809.png"
+ "">
 <h1><a name="visualizationtools">Visualization Tools</a></h1>
 <ul><li>Tool used🛠️: Power BI</li>
 <li> Data set used: <a href= 
