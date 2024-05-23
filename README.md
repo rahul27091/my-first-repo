@@ -1,5 +1,5 @@
 # MovieLens PowerBI Dashboard📺
-<img width="300" alt="Coding" 
+<img width="300" alt="Coding" src = "https://github.com/rahul27091/my-first-repo/blob/8fe6faa087d0c13dde70ee5b9ffee1b6979be5d4/lens-826308_1920.jpg" >
 <h1><a name="introduction">Introduction</a></h1>
 <p>MovieLens is a company in the internet and entertainment domain providing an online database of information related to films, television series, and online streaming content including cast, production crew, trivia, ratings, fan, and critical reviews. Every year in collaboration with a guest curator, MovieLens publish their annual insights based on a theme providing a comprehensive view of a topic. The company is planning to bring out the "Movie Talkies: Classic" edition this year. The idea is to connect with viewers who have strong movie preferences as well as promote classic movies to attract newer customers and expand their viewer base</p>
 <h1><a name="projectobjectives">Project Objectives💡</a></h1>
