@@ -20,8 +20,8 @@
 <h1><a name="visualizationtools">Visualization Tools</a></h1>
 <ul><li>Tool used🛠️: Power BI</li>
 <li> Data set used: <a href= "https://github.com/rahul27091/my-first-repo/blob/5a8d9eef3664ab705c412b33a89d705d76cc8afd/movies%20(1).csv"> 
-<img src=" Movies Dataset" alt=""> Movies Dataset</a>
-<a href= "https://github.com/rahul27091/my-first-repo/blob/b15d387b68d0cad1d2d5f0c95c4bc06efcf651cb/ratings%20(1).csv"> <img src=" Ratings Dataset" alt=""> Ratings Dataset</a>
+<img src=" Movies Dataset" alt=""> Movies Dataset</a>,
+<a href= "https://github.com/rahul27091/my-first-repo/blob/b15d387b68d0cad1d2d5f0c95c4bc06efcf651cb/ratings%20(1).csv"> <img src=" Ratings Dataset" alt=""> Ratings Dataset</a>,
 <a href= "https://github.com/rahul27091/my-first-repo/blob/ea63d44630438d7110bb9e6fa360a499ad5cfbf3/users%20(1).csv"><img src=" Users Dataset" alt=""> Users Dataset</a></li></ul>
 
 <p> This Power BI project leverages a rich palette of visualizations, including bar charts, area charts, tree maps, and donut charts. These visuals are carefully crafted to make complex data easily accessible and visually engaging, enhancing the user experience.</p>
