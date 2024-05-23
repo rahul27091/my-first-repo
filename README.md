@@ -19,7 +19,12 @@
 
 <h1><a name="visualizationtools">Visualization Tools</a></h1>
 <ul><li>Tool used🛠️: Power BI</li>
-<li> Data set used: <a href= "https://github.com/rahul27091/my-first-repo/blob/5a8d9eef3664ab705c412b33a89d705d76cc8afd/movies%20.csv"
+<li> Data set used: <a href= "https://github.com/rahul27091/my-first-repo/blob/5a8d9eef3664ab705c412b33a89d705d76cc8afd/movies%20.csv">
+<a href= "">
+<a href= "">
+
+
+ 
          <img src=" Netflix Dataset" alt=""> Netflix Dataset</a></li></ul>
 <p> This Power BI project leverages a rich palette of visualizations, including bar charts, area charts, tree maps, and donut charts. These visuals are carefully crafted to make complex data easily accessible and visually engaging, enhancing the user experience.</p>
 <h1><a name="conclusion">Conclusion</a></h1>
